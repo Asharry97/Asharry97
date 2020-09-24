@@ -1,4 +1,6 @@
-### 👋 Hi Everyone 👋
+# 👋 Hi Everyone 👋
+
+## About Me
 
 - 🔭 I’m currently trying to explore frontend & backend
   - Sometime i try to learn reactjs react native how they
