@@ -9,7 +9,7 @@
   - Sometimes i try to learn how backend servers work, like how firewall work, how Proxy works how WAF, Reverse Proxy, Load Balancers, Forward Proxy, Secure web Gateway works etc
 
 ## ⚡ Fun facts About Me: 
-  - i do not understand styling in web pages, whatever looks good i try to add it
+  - i do not understand styling in web pages (i am trying to understand it, working on it), whatever looks good i try to add it
   - i hate adding tooo much classes for particular tag, better to have less html :||
   - like React because the way it reuses and uses the component modal, i mean dividing the code into function [backend kind of stuff in frontend]
 
