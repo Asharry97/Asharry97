@@ -1,8 +1,8 @@
 # 👋 Hello Everyone 👋
 
-## Just kinda exploring things
+## Just kinda Exploring(🔭) things
 
-- 🔭 I’m currently trying to explore frontend & backend
+  - I’m currently trying to explore frontend & backend
   - Sometime i try to learn vanilla js, frontend website component like nabar,footer, card etc kinda web components and sometimes i try to explore (no practical coding :)!!) reactjs, polymer, angular, SPA, reactnative etc and how they work
   - Sometimes i try to learn how backend servers work, like how firewall work, how Proxy works how WAF, Reverse Proxy, Load Balancers, Forward Proxy, Secure web Gateway works etc
 
